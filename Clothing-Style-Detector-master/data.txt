@@ -1,0 +1,1 @@
+{"image0": {"boxes": {"classes": ["b'person'", "b'person'"], "xmin": [433, 38], "ymin": [12, 339], "xmax": [1255, 644], "ymax": [960, 948], "scores": [0.8471072912216187, 0.6871515512466431]}, "prediction result": {"acsessories": ["", ""], "clothes": ["Graphics , White", "Spotted , White"]}, "file_path": "static\\img\\image1.jpg", "width": 1280, "height": 960}}

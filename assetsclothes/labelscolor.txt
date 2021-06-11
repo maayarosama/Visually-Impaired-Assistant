@@ -1,0 +1,13 @@
+Black
+Blue
+Brown
+Cyan
+Gray
+Green
+More than 1 color
+Orange
+Pink
+Purple
+Red
+White
+Yellow

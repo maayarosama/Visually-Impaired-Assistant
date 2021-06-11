@@ -1,0 +1,7 @@
+Dress
+Outerwear
+Shirt
+Suit
+Sweater
+Tank top
+T-shirt
